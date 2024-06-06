@@ -1,0 +1,44 @@
+.main-container{
+  width: 50vw;
+  height: 28vw;
+  background-color: aliceblue;
+  position: relative;
+}
+
+video{
+  padding-top: 3vw;
+  height: 70%;
+  width: 100%;
+}
+
+.btn{
+  position: absolute;
+  left: 280px;
+  bottom: 40px;
+  margin-right: 20px;
+  padding: 1vw 2vw;
+  font-size: 30px;
+  background-color: green;
+  border: none;
+  border-radius: 20px;
+  font-weight: 600;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+
+.paused{
+  position: absolute;
+  left: 450px;
+  bottom: 40px;
+  margin-left: 60px;
+  padding: 1vw 2vw;
+  font-size: 30px;
+  background-color: red;
+  border: none;
+  border-radius: 20px;
+  font-weight: 600;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
